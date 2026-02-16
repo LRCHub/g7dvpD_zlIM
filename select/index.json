@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ダンスロボットダンス",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2026-02-16T11:16:08.235285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/01_ダンスロボットダンス_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "ナユタン星人",
+      "has_synced": true,
+      "path": "select/02_ダンスロボットダンス_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/03_ダンスロボットダンス_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "ナユタン星人 feat. 丹下桜",
+      "has_synced": true,
+      "path": "select/04_ダンスロボットダンス_ナユタン星人_feat._丹下桜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "ナユタン星人 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_ダンスロボットダンス_ナユタン星人_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "NayutalieN (ナユタン星人)",
+      "has_synced": true,
+      "path": "select/06_ダンスロボットダンス_NayutalieN_(ナユタン星人).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "Nayutanseijin",
+      "has_synced": true,
+      "path": "select/07_ダンスロボットダンス_Nayutanseijin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "ナユタン星人 feat. 丹下桜",
+      "has_synced": true,
+      "path": "select/08_ダンスロボットダンス_ナユタン星人_feat._丹下桜.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "Nayutanseijin feat. Tange, Sakura",
+      "has_synced": true,
+      "path": "select/09_ダンスロボットダンス_Nayutanseijin_feat._Tange,_Sakura.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "ナユタン星人",
+      "has_synced": true,
+      "path": "select/10_ダンスロボットダンス_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "ナユタン星人×Sou",
+      "has_synced": true,
+      "path": "select/11_ダンスロボットダンス_ナユタン星人×Sou.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/12_ダンスロボットダンス_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ダンスロボットダンス - Dance Robot Dance",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/13_ダンスロボットダンス_-_Dance_Robot_Dance_Nayutalien.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダンスロボットダンス",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_ダンスロボットダンス_ナユタン星人.txt"
+    }
+  ]
+}
